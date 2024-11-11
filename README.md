@@ -1,6 +1,6 @@
 # Portfolio
 
-###Education
+### Education
 Business Analytics 
 
 ### Experience
